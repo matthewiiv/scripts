@@ -1,0 +1,28 @@
+{
+  "name": "nutritional-information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "nutrition-calc": "tsx src/index.ts"
+  },
+  "bin": {
+    "nutrition-calc": "./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^24.2.0",
+    "commander": "^14.0.0",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.2.1",
+    "openai": "^5.11.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}

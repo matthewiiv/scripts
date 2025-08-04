@@ -1,0 +1,31 @@
+{
+  "name": "research-paper-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "extract": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^24.1.0",
+    "@types/yargs": "^17.0.33",
+    "async-mutex": "^0.5.0",
+    "cli-table3": "^0.6.5",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.2.1",
+    "openai": "^5.11.0",
+    "ora": "^8.2.0",
+    "p-limit": "^6.2.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2",
+    "yargs": "^18.0.0"
+  }
+}

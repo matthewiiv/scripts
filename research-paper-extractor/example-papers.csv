@@ -1,0 +1,326 @@
+Section,PaperName,Link
+Section 1: Frontier LLMs,GPT‑1,https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+Section 1: Frontier LLMs,GPT‑2,https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+Section 1: Frontier LLMs,GPT‑3,https://arxiv.org/abs/2005.14165
+Section 1: Frontier LLMs,Codex,https://arxiv.org/abs/2107.03374
+Section 1: Frontier LLMs,InstructGPT,https://arxiv.org/abs/2203.02155
+Section 1: Frontier LLMs,GPT‑4,https://arxiv.org/abs/2303.08774
+Section 1: Frontier LLMs,GPT‑3.5 (launch/event),https://openai.com/index/chatgpt/
+Section 1: Frontier LLMs,GPT‑4o (launch/event),https://openai.com/index/hello-gpt-4o/
+Section 1: Frontier LLMs,o1 (OpenAI),https://openai.com/index/introducing-openai-o1-preview/
+Section 1: Frontier LLMs,o3 (OpenAI),https://openai.com/index/deliberative-alignment/
+Section 1: Frontier LLMs,GPT‑4.5,https://www.interconnects.ai/p/gpt-45-not-a-frontier-model
+Section 1: Frontier LLMs,Claude 3,https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
+Section 1: Frontier LLMs,Claude 4,https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf?s=09
+Section 1: Frontier LLMs,Gemini 1,https://arxiv.org/abs/2312.11805
+Section 1: Frontier LLMs,Gemini 2.5,https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
+Section 1: Frontier LLMs,Claude 3.5 Sonnet,https://www.latent.space/p/claude-sonnet
+Section 1: Frontier LLMs,Gemini 2.0 Flash,https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#gemini-2-0-flash
+Section 1: Frontier LLMs,Gemini 2.0 Flash Thinking,https://ai.google.dev/gemini-api/docs/thinking-mode
+Section 1: Frontier LLMs,Gemma 2,https://arxiv.org/abs/2408.00118
+Section 1: Frontier LLMs,Gemma 3,https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf#page=20.92
+Section 1: Frontier LLMs,LLaMA 1,https://arxiv.org/abs/2302.13971
+Section 1: Frontier LLMs,Llama 2,https://arxiv.org/abs/2307.09288
+Section 1: Frontier LLMs,Llama 3,https://arxiv.org/abs/2407.21783
+Section 1: Frontier LLMs,Mistral 7B,https://arxiv.org/abs/2310.06825
+Section 1: Frontier LLMs,Mixtral,https://arxiv.org/abs/2401.04088
+Section 1: Frontier LLMs,Pixtral,https://arxiv.org/abs/2410.07073
+Section 1: Frontier LLMs,DeepSeek V1,https://arxiv.org/abs/2401.02954
+Section 1: Frontier LLMs,DeepSeek Coder,https://arxiv.org/abs/2401.14196
+Section 1: Frontier LLMs,DeepSeek Math,https://arxiv.org/abs/2402.03300
+Section 1: Frontier LLMs,GRPO,https://www.interconnects.ai/p/papers-im-reading-base-model-rl-grpo
+Section 1: Frontier LLMs,DeepSeek MoE,https://arxiv.org/abs/2401.06066
+Section 1: Frontier LLMs,DeepSeek V2,https://arxiv.org/abs/2405.04434
+Section 1: Frontier LLMs,DeepSeek V3,https://github.com/deepseek-ai/DeepSeek-V3
+Section 1: Frontier LLMs,DeepSeek R1,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+Section 1: Frontier LLMs,Post‑training survey (MBZUAI),https://youtu.be/XCgWoLu-zK8
+Section 1: Frontier LLMs,Post‑training survey (Zain Hasan),https://x.com/zainhasan6/status/1899541155924046006?s=46
+Section 1: Frontier LLMs,ModernBERT,https://buttondown.com/ainews/archive/ainews-modernbert-small-new-retrieverclassifier/
+Section 1: Frontier LLMs,NeoBERT,https://arxiv.org/abs/2502.19587
+Section 1: Frontier LLMs,ColBERT for applications,https://www.answer.ai/posts/colbert-pooling.html
+Section 1: Frontier LLMs,Olmo,https://arxiv.org/abs/2402.00838
+Section 1: Frontier LLMs,Molmo,https://arxiv.org/abs/2409.17146
+Section 1: Frontier LLMs,OlmOE,https://arxiv.org/abs/2409.02060
+Section 1: Frontier LLMs,Tülu 3,https://allenai.org/blog/tulu-3-technical
+Section 1: Frontier LLMs,Olmo 2,https://x.com/soldni/status/1875266934943649808?s=46
+Section 1: Frontier LLMs,Grok,https://github.com/xai-org/grok-1
+Section 1: Frontier LLMs,Grok 3,https://x.ai/news/grok-3
+Section 1: Frontier LLMs,Amazon Nova,https://buttondown.com/ainews/archive/ainews-olympus-has-dropped-aka-amazon-nova/
+Section 1: Frontier LLMs,Yi,https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/
+Section 1: Frontier LLMs,Reka,https://www.latent.space/p/yitay
+Section 1: Frontier LLMs,Cohere,https://cohere.com/command
+Section 1: Frontier LLMs,Nemotron,https://buttondown.com/ainews/archive/ainews-to-be-named-2748/
+Section 1: Frontier LLMs,Microsoft Phi,https://arxiv.org/abs/2412.08905
+Section 1: Frontier LLMs,HuggingFace SmolLM,https://www.latent.space/p/2024-open-models
+Section 1: Frontier LLMs,Apple Intelligence,https://arxiv.org/abs/2407.21075
+Section 1: Frontier LLMs,Kaplan (Scaling Laws),http://arxiv.org/abs/2001.08361
+Section 1: Frontier LLMs,Chinchilla,https://arxiv.org/abs/2203.15556
+Section 1: Frontier LLMs,Emergence,https://arxiv.org/abs/2206.07682
+Section 1: Frontier LLMs,Mirage,https://arxiv.org/abs/2304.15004
+Section 1: Frontier LLMs,Post‑Chinchilla laws,https://arxiv.org/abs/2401.00448
+Section 1: Frontier LLMs,Kimi K‑2/Moonshot,https://moonshotai.github.io/Kimi-K2/
+Section 1: Frontier LLMs,Muon,https://arxiv.org/abs/2502.16982
+Section 1: Frontier LLMs,o3 (Wikipedia),https://en.wikipedia.org/wiki/OpenAI_o3
+Section 1: Frontier LLMs,R1 (DeepSeek News),https://api-docs.deepseek.com/news/news1120
+Section 1: Frontier LLMs,QwQ,https://qwenlm.github.io/blog/qwq-32b-preview/
+Section 1: Frontier LLMs,QVQ,https://qwenlm.github.io/blog/qvq-72b-preview/
+Section 1: Frontier LLMs,f1,https://fireworks.ai/blog/fireworks-compound-ai-system-f1
+Section 1: Frontier LLMs,Sebastian Raschka reasoning review,https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
+Section 1: Frontier LLMs,Let’s Verify Step By Step,https://arxiv.org/abs/2305.20050
+Section 1: Frontier LLMs,s1,https://arxiv.org/abs/2501.19393
+Section 1: Frontier LLMs,STaR,https://www.youtube.com/watch?v=Y5-FeaFOEFM
+Section 1: Frontier LLMs,Noam Brown talks/podcasts,https://www.youtube.com/live/Gr_eYXdHFis
+Section 1: Frontier LLMs,accumulated by outsiders,https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=o1&sort=byPopularity&type=story
+Section 1: Frontier LLMs,LS talk,https://www.youtube.com/watch?v=skT89EvIjrc&t=68s
+Section 2: Benchmarks and Evals,MMLU,https://arxiv.org/abs/2009.03300
+Section 2: Benchmarks and Evals,GPQA,https://arxiv.org/abs/2311.12022
+Section 2: Benchmarks and Evals,BIG‑Bench,https://arxiv.org/abs/2206.04615
+Section 2: Benchmarks and Evals,MMLU Pro,https://arxiv.org/abs/2406.01574
+Section 2: Benchmarks and Evals,GPQA Diamond,https://arxiv.org/abs/2311.12022
+Section 2: Benchmarks and Evals,BIG‑Bench Hard,https://arxiv.org/abs/2210.09261
+Section 2: Benchmarks and Evals,MRCR,https://arxiv.org/html/2409.12640v2
+Section 2: Benchmarks and Evals,Quasar (used by OpenAI),https://www.latent.space/p/quasar
+Section 2: Benchmarks and Evals,MuSR,https://arxiv.org/abs/2310.16049
+Section 2: Benchmarks and Evals,LongBench,https://arxiv.org/abs/2412.15204
+Section 2: Benchmarks and Evals,BABILong,https://arxiv.org/abs/2406.10149
+Section 2: Benchmarks and Evals,RULER,https://www.latent.space/p/gradient
+Section 2: Benchmarks and Evals,Needle in a Haystack,https://github.com/gkamradt/LLMTest_NeedleInAHaystack
+Section 2: Benchmarks and Evals,MATH,https://arxiv.org/abs/2103.03874
+Section 2: Benchmarks and Evals,FrontierMath,https://arxiv.org/abs/2411.04872
+Section 2: Benchmarks and Evals,AMO,https://x.com/jack_w_rae/status/1924897579122491523
+Section 2: Benchmarks and Evals,AIME,https://www.kaggle.com/datasets/hemishveeraboina/aime-problem-set-1983-2024
+Section 2: Benchmarks and Evals,AMC10/AMC12,https://github.com/ryanrudes/amc
+Section 2: Benchmarks and Evals,IFEval,https://arxiv.org/abs/2311.07911
+Section 2: Benchmarks and Evals,Facebook’s Multi‑IF (code),https://github.com/facebookresearch/Multi-IF
+Section 2: Benchmarks and Evals,Multi‑IF,https://arxiv.org/abs/2410.15553
+Section 2: Benchmarks and Evals,COLLIE,https://collie-benchmark.github.io/
+Section 2: Benchmarks and Evals,Scale MultiChallenge,https://arxiv.org/abs/2501.17399
+Section 2: Benchmarks and Evals,MT‑Bench,https://huggingface.co/spaces/lmsys/mt-bench
+Section 2: Benchmarks and Evals,ARC AGI,https://arcprize.org/arc
+Section 2: Benchmarks and Evals,Often gamed (commentary),https://x.com/kalomaze/status/1923983739299955064
+Section 2: Benchmarks and Evals,May 2025 update,https://x.com/scaling01/status/1919092778648408363
+Section 2: Benchmarks and Evals,Benchmarks 101,https://www.latent.space/p/benchmarks-101
+Section 2: Benchmarks and Evals,Benchmarks 201,https://www.latent.space/p/benchmarks-201
+Section 2: Benchmarks and Evals,Carlini,https://www.latent.space/p/carlini
+Section 2: Benchmarks and Evals,LMArena,https://www.latent.space/p/lmarena
+Section 2: Benchmarks and Evals,warning (Karpathy),https://x.com/karpathy/status/1917546757929722115
+Section 2: Benchmarks and Evals,Braintrust,https://www.latent.space/p/braintrust
+Section 2: Benchmarks and Evals,LLM‑as‑Judge,https://hamel.dev/blog/posts/llm-judge/
+Section 2: Benchmarks and Evals,Rubrics,https://x.com/iscienceluvr/status/1948235609190867054?s=46
+Section 2: Benchmarks and Evals,Applied LLMs essay,https://applied-llms.org/#evaluation-monitoring
+Section 2: Benchmarks and Evals,Datasets,https://www.latent.space/p/datasets-101
+Section 2: Benchmarks and Evals,The Second Half (benchmarks dated),https://ysymyth.github.io/The-Second-Half/
+Section 2: Benchmarks and Evals,New approaches to benchmarking,https://research.trychroma.com/generative-benchmarking
+"Section 3: Prompting, ICL & Chain of Thought",The Prompt Report,https://arxiv.org/abs/2406.06608
+"Section 3: Prompting, ICL & Chain of Thought",Prompt report podcast,https://www.latent.space/p/learn-prompting
+"Section 3: Prompting, ICL & Chain of Thought",Chain-of-Thought,https://arxiv.org/abs/2201.11903
+"Section 3: Prompting, ICL & Chain of Thought",Scratchpads,https://arxiv.org/abs/2112.00114
+"Section 3: Prompting, ICL & Chain of Thought",Let’s Think Step By Step,https://arxiv.org/abs/2205.11916
+"Section 3: Prompting, ICL & Chain of Thought",Tree of Thought,https://arxiv.org/abs/2305.10601
+"Section 3: Prompting, ICL & Chain of Thought",Tree of Thought podcast,https://www.latent.space/p/shunyu
+"Section 3: Prompting, ICL & Chain of Thought",Prompt Tuning,https://aclanthology.org/2021.emnlp-main.243/
+"Section 3: Prompting, ICL & Chain of Thought",Prefix‑Tuning,https://arxiv.org/abs/2101.00190
+"Section 3: Prompting, ICL & Chain of Thought",Adjust decoding,https://arxiv.org/abs/2402.10200
+"Section 3: Prompting, ICL & Chain of Thought",Via entropy,https://github.com/xjdr-alt/entropix
+"Section 3: Prompting, ICL & Chain of Thought",Representation engineering,https://vgel.me/posts/representation-engineering/
+"Section 3: Prompting, ICL & Chain of Thought",Automatic Prompt Engineering,https://arxiv.org/abs/2211.01910
+"Section 3: Prompting, ICL & Chain of Thought",DSPy,https://arxiv.org/abs/2310.03714
+"Section 3: Prompting, ICL & Chain of Thought",Reasoning survey (tweet),https://x.com/denny_zhou/status/1948499173986201915
+"Section 3: Prompting, ICL & Chain of Thought",Reasoning slides,https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf
+"Section 3: Prompting, ICL & Chain of Thought",Prompt injection overview,https://www.latent.space/i/93381455/what-is-prompt-injection
+"Section 3: Prompting, ICL & Chain of Thought",Context Engineering,https://www.dbreunig.com/2025/07/24/why-the-term-context-engineering-matters.html
+"Section 3: Prompting, ICL & Chain of Thought",Lilian Weng’s guide,https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+"Section 3: Prompting, ICL & Chain of Thought",Eugene Yan’s guide,https://eugeneyan.com/writing/prompting/
+"Section 3: Prompting, ICL & Chain of Thought",Anthropic Prompt Engineering Tutorial,https://github.com/anthropics/prompt-eng-interactive-tutorial
+"Section 3: Prompting, ICL & Chain of Thought",AI Engineer Workshop,https://www.youtube.com/watch?v=hkhDdcM5V94
+Section 4: Retrieval Augmented Generation,Introduction to Information Retrieval,https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+Section 4: Retrieval Augmented Generation,IR history,https://en.wikipedia.org/wiki/Information_retrieval#History
+Section 4: Retrieval Augmented Generation,TF‑IDF,https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+Section 4: Retrieval Augmented Generation,BM25,https://en.wikipedia.org/wiki/Okapi_BM25
+Section 4: Retrieval Augmented Generation,FAISS,https://github.com/facebookresearch/faiss
+Section 4: Retrieval Augmented Generation,HNSW,https://arxiv.org/abs/1603.09320
+Section 4: Retrieval Augmented Generation,Meta RAG,https://arxiv.org/abs/2005.11401
+Section 4: Retrieval Augmented Generation,RAG 2.0,https://contextual.ai/introducing-rag2/
+Section 4: Retrieval Augmented Generation,HyDE,https://docs.llamaindex.ai/en/stable/optimizing/advanced_retrieval/query_transformations/
+Section 4: Retrieval Augmented Generation,Chunking,https://research.trychroma.com/evaluating-chunking
+Section 4: Retrieval Augmented Generation,Rerankers,https://cohere.com/blog/rerank-3pt5
+Section 4: Retrieval Augmented Generation,Multimodal data,https://www.youtube.com/watch?v=i2vBaFzCEJw
+Section 4: Retrieval Augmented Generation,Better (RAG presentation),https://www.youtube.com/watch?v=TRjq7t2Ms5I&t=152s
+Section 4: Retrieval Augmented Generation,Presented (RAG talk),https://www.youtube.com/watch?v=FDEmbYPgG-s
+Section 4: Retrieval Augmented Generation,Elsewhere (RAG talk),https://www.youtube.com/watch?v=DId2KP8Ykz4
+Section 4: Retrieval Augmented Generation,MTEB,https://arxiv.org/abs/2210.07316
+Section 4: Retrieval Augmented Generation,Overfitting article,https://news.ycombinator.com/item?id=42504379
+Section 4: Retrieval Augmented Generation,Author considers it dead,https://x.com/Nils_Reimers/status/1870812625505849849
+Section 4: Retrieval Augmented Generation,SentenceTransformers,https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+Section 4: Retrieval Augmented Generation,OpenAI embeddings video,https://www.youtube.com/watch?v=VIqXNRsRRQo
+Section 4: Retrieval Augmented Generation,Nomic Embed/Jina v3/cde‑small‑v1,https://www.youtube.com/watch?v=VIqXNRsRRQo
+Section 4: Retrieval Augmented Generation,ModernBERT Embed,https://x.com/zach_nussbaum/status/1873813021786767699?s=46&t=tMWvmS3OL3Ssg0b9lKvp4Q
+Section 4: Retrieval Augmented Generation,Matryoshka embeddings,https://huggingface.co/blog/matryoshka
+Section 4: Retrieval Augmented Generation,GraphRAG,https://arxiv.org/pdf/2404.16130
+Section 4: Retrieval Augmented Generation,GraphRAG – Microsoft blog,https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-graphrag
+Section 4: Retrieval Augmented Generation,GraphRAG – open sourced,https://buttondown.com/ainews/archive/ainews-graphrag/
+Section 4: Retrieval Augmented Generation,GraphRAG trends video,https://www.youtube.com/watch?v=knDDGYHnnSI
+Section 4: Retrieval Augmented Generation,ColBERT (retrieval),https://github.com/stanford-futuredata/ColBERT
+Section 4: Retrieval Augmented Generation,RAGAS,https://arxiv.org/abs/2309.15217
+Section 4: Retrieval Augmented Generation,RAGAS – recommended by OpenAI,https://x.com/swyx/status/1724490887147978793
+Section 4: Retrieval Augmented Generation,Nvidia FACTS framework,https://arxiv.org/abs/2407.07858v1
+Section 4: Retrieval Augmented Generation,Extrinsic Hallucinations in LLMs,https://lilianweng.github.io/posts/2024-07-07-hallucination/
+Section 4: Retrieval Augmented Generation,Jason Wei on recall vs precision,https://x.com/_jasonwei/status/1871285864690815053
+Section 4: Retrieval Augmented Generation,LlamaIndex documentation,https://docs.llamaindex.ai/en/stable/understanding/rag/
+Section 4: Retrieval Augmented Generation,RAG course,https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/
+Section 4: Retrieval Augmented Generation,LangChain tutorial,https://python.langchain.com/docs/tutorials/rag/
+Section 4: Retrieval Augmented Generation,RAG tutorial video,https://www.youtube.com/watch?v=wd7TZ4w1mSw
+Section 4: Retrieval Augmented Generation,RAG vs Long Context,https://arxiv.org/abs/2407.16833
+Section 5: Agents,SWE‑Bench,https://arxiv.org/abs/2310.06770
+Section 5: Agents,SWE‑Bench podcast,https://www.latent.space/p/iclr-2024-benchmarks-agents?utm_source=publication-search#%C2%A7section-b-benchmarks
+Section 5: Agents,SWE‑Lancer,https://openai.com/index/swe-lancer/
+Section 5: Agents,Anthropic adoption (Claude Sonnet),https://www.latent.space/p/claude-sonnet
+Section 5: Agents,OpenAI – SWE‑Bench Verified,https://openai.com/index/introducing-swe-bench-verified/
+Section 5: Agents,WebArena,https://github.com/web-arena-x/webarena
+Section 5: Agents,SWE‑Gym,https://x.com/jiayi_pirate/status/1871249410128322856
+Section 5: Agents,SWE‑Agent,https://arxiv.org/abs/2405.15793
+Section 5: Agents,SWE‑Bench Multimodal,https://arxiv.org/abs/2410.03859
+Section 5: Agents,Konwinski Prize,https://kprize.ai/
+Section 5: Agents,TauBench,https://arxiv.org/abs/2406.12045
+Section 5: Agents,GAIA,https://arxiv.org/abs/2311.12983
+Section 5: Agents,ReAct,https://arxiv.org/abs/2210.03629
+Section 5: Agents,ReAct podcast,https://www.latent.space/p/shunyu
+Section 5: Agents,Gorilla,https://gorilla.cs.berkeley.edu/
+Section 5: Agents,BFCL Leaderboard,https://gorilla.cs.berkeley.edu/leaderboard.html
+Section 5: Agents,Toolformer,https://arxiv.org/abs/2302.04761
+Section 5: Agents,HuggingGPT,https://arxiv.org/abs/2303.17580
+Section 5: Agents,MemGPT,https://arxiv.org/abs/2310.08560
+Section 5: Agents,Long memory approaches (tweet),https://x.com/swyx/status/1915128966203236571
+Section 5: Agents,ChatGPT memory & controls,https://openai.com/index/memory-and-new-controls-for-chatgpt/
+Section 5: Agents,LangGraph memory,https://langchain-ai.github.io/langgraph/concepts/memory/#episodic-memory
+Section 5: Agents,MetaGPT,https://arxiv.org/abs/2308.00352
+Section 5: Agents,AutoGen,https://arxiv.org/abs/2308.08155
+Section 5: Agents,Smallville,https://github.com/joonspk-research/generative_agents
+Section 5: Agents,Voyager,https://arxiv.org/abs/2305.16291
+Section 5: Agents,Cognitive architecture,https://arxiv.org/abs/2309.02427
+Section 5: Agents,Agent Workflow Memory,https://arxiv.org/abs/2409.07429
+Section 5: Agents,Building Effective Agents,https://www.anthropic.com/research/building-effective-agents
+Section 5: Agents,Building Effective Agents talk,https://x.com/aiDotEngineer/status/1908230651985485955
+Section 5: Agents,Lilian Weng’s Agents,https://lilianweng.github.io/posts/2023-06-23-agent/
+Section 5: Agents,Shunyu Yao on LLM Agents,https://www.latent.space/p/shunyu
+Section 5: Agents,Chip Huyen’s Agents,https://huyenchip.com//2025/01/07/agents.html
+Section 5: Agents,2024 SOTA agent designs at NeurIPS,https://www.latent.space/p/2024-agents
+Section 5: Agents,UC Berkeley LLM Agents MOOC,https://llmagents-learning.org/f24
+Section 5: Agents,Use mine (agent definition),https://www.youtube.com/watch?v=wnsZ7DuqYp0
+Section 6: Code Generation,The Stack,https://arxiv.org/abs/2211.15533
+Section 6: Code Generation,The Stack v2,https://huggingface.co/datasets/bigcode/the-stack-v2
+Section 6: Code Generation,StarCoder,https://arxiv.org/abs/2402.19173
+Section 6: Code Generation,DeepSeek‑Coder,https://arxiv.org/abs/2401.14196
+Section 6: Code Generation,Qwen2.5‑Coder,https://arxiv.org/abs/2409.12186
+Section 6: Code Generation,CodeLlama,https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/
+Section 6: Code Generation,HumanEval/Codex,https://arxiv.org/abs/2107.03374
+Section 6: Code Generation,Aider,https://aider.chat/docs/leaderboards/
+Section 6: Code Generation,Codeforces,https://arxiv.org/abs/2312.02143
+Section 6: Code Generation,IOI,https://arxiv.org/pdf/2502.06807v1
+Section 6: Code Generation,BigCodeBench,https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard
+Section 6: Code Generation,LiveCodeBench,https://livecodebench.github.io/
+Section 6: Code Generation,SciCode,https://buttondown.com/ainews/archive/ainews-to-be-named-5745/
+Section 6: Code Generation,AlphaCodeium,https://arxiv.org/abs/2401.08500
+Section 6: Code Generation,AlphaCode,https://news.ycombinator.com/item?id=34020025
+Section 6: Code Generation,AlphaCode2,https://x.com/RemiLeblond/status/1732419456272318614
+Section 6: Code Generation,CriticGPT,https://criticgpt.org/criticgpt-openai/
+Section 6: Code Generation,Security issues paper,https://arxiv.org/abs/2412.15004v1
+Section 6: Code Generation,SAEs for safety,https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html#safety-relevant-code
+Section 6: Code Generation,Practical codegen advice,https://www.youtube.com/watch?v=Ve-akpov78Q
+Section 6: Code Generation,Code agents like Devin,https://www.youtube.com/watch?v=T7NWjoD_OuY&t=8s
+Section 7: Vision,YOLO,https://arxiv.org/abs/1506.02640
+Section 7: Vision,Ultralytics v11,https://github.com/ultralytics/ultralytics
+Section 7: Vision,Mind the lineage,https://news.ycombinator.com/item?id=42352342
+Section 7: Vision,DETRs Beat YOLOs,https://arxiv.org/abs/2304.08069
+Section 7: Vision,CLIP,https://arxiv.org/abs/2103.00020
+Section 7: Vision,ViT,https://arxiv.org/abs/2010.11929
+Section 7: Vision,BLIP,https://arxiv.org/abs/2201.12086
+Section 7: Vision,BLIP 2,https://arxiv.org/abs/2301.12597
+Section 7: Vision,SigLIP/PaliGemma,https://www.latent.space/i/152857207/part-vision
+Section 7: Vision,MMVP benchmark,https://arxiv.org/abs/2401.06209
+Section 7: Vision,LS Live (vision),https://www.latent.space/p/2024-vision
+Section 7: Vision,MMMU,https://arxiv.org/abs/2311.16502
+Section 7: Vision,SWE‑Bench Multimodal,https://arxiv.org/abs/2410.03859
+Section 7: Vision,MathVista,https://github.com/lupantech/MathVista
+Section 7: Vision,CharXiv,https://charxiv.github.io/
+Section 7: Vision,Segment Anything Model,https://arxiv.org/abs/2304.02643
+Section 7: Vision,SAM 2,https://arxiv.org/abs/2408.00714
+Section 7: Vision,SAM podcast,https://latent.space/p/sam2
+Section 7: Vision,GroundingDINO,https://github.com/IDEA-Research/GroundingDINO
+Section 7: Vision,LLaVA,https://arxiv.org/abs/2304.08485
+Section 7: Vision,NeurIPS 2023 papers (podcast),https://www.latent.space/p/neurips-2023-papers
+Section 7: Vision,Flamingo,https://huyenchip.com/2023/10/10/multimodal.html
+Section 7: Vision,Chameleon,https://arxiv.org/abs/2405.09818
+Section 7: Vision,AIMv2,https://arxiv.org/abs/2411.14402
+Section 7: Vision,Reka Core,https://arxiv.org/abs/2404.12387
+Section 7: Vision,Visual LM survey,https://lilianweng.github.io/posts/2022-06-09-vlm/
+Section 7: Vision,GPT4V system card,https://cdn.openai.com/papers/GPTV_System_Card.pdf
+Section 7: Vision,Derivative papers (vision),https://arxiv.org/abs/2309.17421
+Section 7: Vision,Finetuning 4o vision,https://blog.roboflow.com/gpt-4o-object-detection/
+Section 7: Vision,Pixtral (vision),https://mistral.ai/news/pixtral-large/
+Section 7: Vision,Llama 3.2,https://buttondown.com/ainews/archive/ainews-llama-32-on-device-1b3b-and-multimodal/
+Section 7: Vision,Moondream,https://www.youtube.com/watch?v=T7sxvrJLJ14
+Section 7: Vision,QVQ (vision),https://news.ycombinator.com/item?id=42505038
+Section 7: Vision,Mistral OCR,https://news.ycombinator.com/item?id=43282905
+Section 7: Vision,VLM Run,https://news.ycombinator.com/item?id=43187209
+Section 8: Voice,Whisper,https://arxiv.org/abs/2212.04356
+Section 8: Voice,Whisper v2,https://news.ycombinator.com/item?id=33884716
+Section 8: Voice,Whisper v3,https://news.ycombinator.com/item?id=38166965
+Section 8: Voice,distil‑whisper,https://github.com/huggingface/distil-whisper
+Section 8: Voice,Whisper v3 Turbo,https://amgadhasan.substack.com/p/demystifying-openais-new-whisper
+Section 8: Voice,AudioPaLM,http://AudioPaLM
+Section 8: Voice,Llama 3 speech explorations,https://arxiv.org/abs/2407.21783
+Section 8: Voice,NaturalSpeech,https://arxiv.org/abs/2205.04421?utm_source=chatgpt.com
+Section 8: Voice,NaturalSpeech v3,https://arxiv.org/abs/2403.03100
+Section 8: Voice,Kyutai Moshi,http://Moshi
+Section 8: Voice,Moshi demo,https://www.youtube.com/watch?v=hm2IJSKcYvo
+Section 8: Voice,Hume OCTAVE,https://www.hume.ai/blog/introducing-octave
+Section 8: Voice,OpenAI Realtime API manual,https://www.latent.space/p/realtime-api
+Section 8: Voice,State of Voice 2024,https://www.cartesia.ai/blog/state-of-voice-ai-2024
+Section 8: Voice,NotebookLM description,https://www.latent.space/p/notebooklm
+Section 8: Voice,wav2vec,https://arxiv.org/abs/2006.11477
+Section 9: Image/Video Diffusion,Latent Diffusion,https://arxiv.org/abs/2112.10752
+Section 9: Image/Video Diffusion,Stable Diffusion 2 (SD2),https://stability.ai/news/stable-diffusion-v2-release
+Section 9: Image/Video Diffusion,SDXL,https://arxiv.org/abs/2307.01952
+Section 9: Image/Video Diffusion,SD3,https://arxiv.org/abs/2403.03206
+Section 9: Image/Video Diffusion,BFL Flux,https://github.com/black-forest-labs/flux
+Section 9: Image/Video Diffusion,DALL‑E,https://arxiv.org/abs/2102.12092
+Section 9: Image/Video Diffusion,DALL‑E 2,https://arxiv.org/abs/2204.06125
+Section 9: Image/Video Diffusion,DALL‑E 3,https://cdn.openai.com/papers/dall-e-3.pdf
+Section 9: Image/Video Diffusion,Imagen,https://arxiv.org/abs/2205.11487
+Section 9: Image/Video Diffusion,Imagen 2,https://deepmind.google/technologies/imagen-2/
+Section 9: Image/Video Diffusion,Imagen 3,https://arxiv.org/abs/2408.07009
+Section 9: Image/Video Diffusion,Consistency Models,https://arxiv.org/abs/2303.01469
+Section 9: Image/Video Diffusion,LCMs,https://arxiv.org/abs/2310.04378
+Section 9: Image/Video Diffusion,Quick draw viral moment (tldraw),https://www.latent.space/p/tldraw
+Section 9: Image/Video Diffusion,sCMs,https://arxiv.org/abs/2410.11081
+Section 9: Image/Video Diffusion,Sora,https://openai.com/index/sora/
+Section 9: Image/Video Diffusion,DiT paper,https://arxiv.org/abs/2212.09748
+Section 9: Image/Video Diffusion,Open weights competitors,https://artificialanalysis.ai/text-to-video/arena?tab=Leaderboard
+Section 9: Image/Video Diffusion,OpenSora,https://arxiv.org/abs/2412.00131
+Section 9: Image/Video Diffusion,Diffusion video survey,https://lilianweng.github.io/posts/2024-04-12-diffusion-video/
+Section 9: Image/Video Diffusion,Autoregressive image generation,https://www.youtube.com/watch?v=yJ396Ksiv2s
+Section 9: Image/Video Diffusion,Gemini image generation,https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/
+Section 9: Image/Video Diffusion,4o image generation,https://news.ycombinator.com/item?id=43474112#43475809
+Section 9: Image/Video Diffusion,Llama’s native image gen,https://arxiv.org/abs/2406.06525
+Section 9: Image/Video Diffusion,Ideogram 2.0,https://www.reddit.com/r/singularity/comments/1exsq4d/introducing_ideogram_20_our_most_advanced/
+Section 9: Image/Video Diffusion,Recraft,https://www.recraft.ai/
+Section 9: Image/Video Diffusion,Reve Image,https://buttondown.com/ainews/archive/ainews-halfmoon-is-reve-image-a-new-sota-image/
+Section 9: Image/Video Diffusion,Genmo,https://github.com/genmoai/mochi
+Section 9: Image/Video Diffusion,ComfyUI,https://www.latent.space/p/comfyui
+Section 9: Image/Video Diffusion,Text Diffusion,https://www.youtube.com/watch?v=1mG678f1ZYU&pp=ygUOdGV4dCBkaWZmdXNpb24%3D
+Section 9: Image/Video Diffusion,Music Diffusion,https://arxiv.org/abs/2302.03917
+Section 10: Finetuning,LoRA,https://arxiv.org/abs/2106.09685
+Section 10: Finetuning,QLoRA,https://arxiv.org/abs/2305.14314
+Section 10: Finetuning,FSDP+QLoRA,https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
+Section 10: Finetuning,DPO,https://arxiv.org/abs/2305.18290
+Section 10: Finetuning,PPO,https://arxiv.org/abs/1707.06347
+Section 10: Finetuning,Preference Finetuning,https://platform.openai.com/docs/guides/fine-tuning#preference
+Section 10: Finetuning,ReFT,https://arxiv.org/abs/2404.03592
+Section 10: Finetuning,Orca 3/AgentInstruct,https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/
+Section 10: Finetuning,Synthetic Data picks at NeurIPS,https://www.latent.space/p/2024-syndata-smolmodels
+Section 10: Finetuning,RL Finetuning for o1,https://www.interconnects.ai/p/openais-reinforcement-finetuning
+Section 10: Finetuning,Let’s Verify Step By Step (repeated),https://arxiv.org/abs/2305.20050
+Section 10: Finetuning,Noam Brown talks (finetuning),https://x.com/swyx/status/1867990396762243324
+Section 10: Finetuning,Unsloth notebooks,https://github.com/unslothai/unsloth
+Section 10: Finetuning,How to fine-tune open LLMs,https://www.philschmid.de/fine-tune-llms-in-2025
